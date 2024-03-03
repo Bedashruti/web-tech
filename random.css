@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    padding: 50px;
+    display: inline;
+    display: flex;
+}
+#subt{
+    height: 40px;
+    width: 35%;
+    background-color: black;
+    color: aliceblue;
+}
+label{
+    padding: 50px;
+    text-align: center;
+}
+#guessField{
+    width: 150px;
+    height: 20px;
+    
+}
