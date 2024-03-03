@@ -1,0 +1,25 @@
+#grey{
+   background-color:grey;
+   height: 100px;
+   width:100px;
+}
+#yellow{
+    background-color:yellow;
+    height: 100px;
+    width:100px;
+ }
+#blue{
+    background-color:blue;
+    height: 100px;
+    width:100px;
+ }
+#red{
+    background-color:red;
+    height: 100px;
+    width:100px;
+ }
+#violet{
+    background-color:rgb(49, 6, 49);
+    height: 100px;
+    width:100px;
+ }
